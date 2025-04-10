@@ -104,7 +104,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "https://bcknd-t0fr.onrender.com",
     "https://bcknd-t0fr.onrender.com/api/tasks",
-    "https://sdmontillano.github.io/Todo_Task/",
+    "https://icekrispy.github.io/TodoFrontAppDev/",
     
 
 # CSRF Settings
