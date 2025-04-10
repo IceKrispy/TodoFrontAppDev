@@ -102,12 +102,10 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-    "https://todo-task-ez87.onrender.com",
-    "https://todo-task-ez87.onrender.com/api/todos/",
+    "https://bcknd-t0fr.onrender.com",
+    "https://bcknd-t0fr.onrender.com/api/tasks",
     "https://sdmontillano.github.io/Todo_Task/",
-    "https://todo-task-git-main-siegfreds-projects-fb9e6a87.vercel.app",
-    "https://todo-task-77j2z3hhx-siegfreds-projects-fb9e6a87.vercel.app",
-]
+    
 
 # CSRF Settings
 CSRF_TRUSTED_ORIGINS = [
